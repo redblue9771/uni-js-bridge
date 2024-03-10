@@ -1,5 +1,5 @@
 {
-  "name": "js",
+  "name": "uni-js-bridge",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^5.75.0",
-    "webpack-cli": "^5.0.1"
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
   },
   "dependencies": {
     "@dcloudio/uni-webview-js": "^0.0.3"
